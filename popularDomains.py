@@ -7,7 +7,7 @@
 import csv
 
 # csv from http://s3-us-west-1.amazonaws.com/umbrella-static/index.html
-umbrella_fname = "top-1m.csv"
+umbrella_fname = "top-1m.csv.zip"
 
 # txt file containing the domains to check against
 domain_fname = "domain_examples.txt"
